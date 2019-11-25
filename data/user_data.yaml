@@ -1,0 +1,17 @@
+User_Data:
+  test_user_001:    # 用例编号
+    name: ""    # 空内容用""表示
+    phone: ""
+    expect: ""
+  test_user_002:
+    name: "翠花"
+    phone: ""
+    expect: "翠花"
+  test_user_003:
+    name: ""
+    phone: "1 388-888-8888"
+    expect: "1 388-888-8888"
+  test_user_004:
+    name: "大王"
+    phone: "1 366-666-6666"
+    expect: "大王"

@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Mon Nov 25 14:58:18 CST 2019","Mon Nov 25 14:58:41 CST 2019","23521","scripts_test","test_contact","TestContact","","","test_001[test_user_003--1 388-888-8888-1 388-888-8888]",""
+"passed","Mon Nov 25 14:57:50 CST 2019","Mon Nov 25 14:58:16 CST 2019","26462","scripts_test","test_contact","TestContact","","","test_001[test_user_002-翠花--翠花]",""
+"passed","Mon Nov 25 14:58:42 CST 2019","Mon Nov 25 14:59:07 CST 2019","24237","scripts_test","test_contact","TestContact","","","test_001[test_user_004-大王-1 366-666-6666-大王]",""
+"passed","Mon Nov 25 14:57:29 CST 2019","Mon Nov 25 14:57:48 CST 2019","19656","scripts_test","test_contact","TestContact","","","test_001[test_user_001---]",""

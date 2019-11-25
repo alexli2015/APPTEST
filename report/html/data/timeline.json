@@ -1,0 +1,65 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-JKISR1H",
+    "children" : [ {
+      "name" : "42792-MainThread",
+      "children" : [ {
+        "name" : "test_001[test_user_001---]",
+        "uid" : "5574fb83aa4ed84d",
+        "parentUid" : "1571429e90c2b7b946dbb8d182c18440",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574665049050,
+          "stop" : 1574665068706,
+          "duration" : 19656
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "''", "''", "''", "'test_user_001'" ]
+      }, {
+        "name" : "test_001[test_user_003--1 388-888-8888-1 388-888-8888]",
+        "uid" : "5aa0a8c49d8a98be",
+        "parentUid" : "1571429e90c2b7b946dbb8d182c18440",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574665098092,
+          "stop" : 1574665121613,
+          "duration" : 23521
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1 388-888-8888'", "''", "'1 388-888-8888'", "'test_user_003'" ]
+      }, {
+        "name" : "test_001[test_user_002-翠花--翠花]",
+        "uid" : "97db93473a5cacb1",
+        "parentUid" : "1571429e90c2b7b946dbb8d182c18440",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574665070262,
+          "stop" : 1574665096724,
+          "duration" : 26462
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'翠花'", "'翠花'", "''", "'test_user_002'" ]
+      }, {
+        "name" : "test_001[test_user_004-大王-1 366-666-6666-大王]",
+        "uid" : "f6ee1f0730151ebc",
+        "parentUid" : "1571429e90c2b7b946dbb8d182c18440",
+        "status" : "passed",
+        "time" : {
+          "start" : 1574665122969,
+          "stop" : 1574665147206,
+          "duration" : 24237
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'大王'", "'大王'", "'1 366-666-6666'", "'test_user_004'" ]
+      } ],
+      "uid" : "1571429e90c2b7b946dbb8d182c18440"
+    } ],
+    "uid" : "09fd7cb337960f0e8423527fbe3a1f4f"
+  } ]
+}

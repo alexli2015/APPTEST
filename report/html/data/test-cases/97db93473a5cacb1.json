@@ -1,0 +1,174 @@
+{
+  "uid" : "97db93473a5cacb1",
+  "name" : "test_001[test_user_002-翠花--翠花]",
+  "fullName" : "scripts_test.test_contact.TestContact#test_001",
+  "historyId" : "a540477f66e4b04cbc86d47bf8c63add",
+  "time" : {
+    "start" : 1574665070262,
+    "stop" : 1574665096724,
+    "duration" : 26462
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1574665032745,
+      "stop" : 1574665046729,
+      "duration" : 13984
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "before",
+    "time" : {
+      "start" : 1574665068715,
+      "stop" : 1574665070259,
+      "duration" : 1544
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "添加联系人信息",
+      "time" : {
+        "start" : 1574665070263,
+        "stop" : 1574665096724,
+        "duration" : 26461
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9113a8505c0f737",
+        "name" : "输入姓名翠花",
+        "source" : "9113a8505c0f737.attach",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "f93cec0719040395",
+        "name" : "输入手机号",
+        "source" : "f93cec0719040395.attach",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "fbbd78099ec00b83",
+        "name" : "点击添加页返回按钮",
+        "source" : "fbbd78099ec00b83.attach",
+        "type" : "text/plain",
+        "size" : 6
+      }, {
+        "uid" : "67a9e211532769b1",
+        "name" : "点击手机返回按钮",
+        "source" : "67a9e211532769b1.attach",
+        "type" : "text/plain",
+        "size" : 6
+      } ],
+      "parameters" : [ {
+        "name" : "test_num",
+        "value" : "'test_user_002'"
+      }, {
+        "name" : "name",
+        "value" : "'翠花'"
+      }, {
+        "name" : "phone",
+        "value" : "''"
+      }, {
+        "name" : "expect",
+        "value" : "'翠花'"
+      } ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 4,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1574665147216,
+      "stop" : 1574665150638,
+      "duration" : 3422
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : false,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts_test"
+  }, {
+    "name" : "suite",
+    "value" : "test_contact"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestContact"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-JKISR1H"
+  }, {
+    "name" : "thread",
+    "value" : "42792-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts_test.test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expect",
+    "value" : "'翠花'"
+  }, {
+    "name" : "name",
+    "value" : "'翠花'"
+  }, {
+    "name" : "phone",
+    "value" : "''"
+  }, {
+    "name" : "test_num",
+    "value" : "'test_user_002'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "97db93473a5cacb1.json",
+  "parameterValues" : [ "'翠花'", "'翠花'", "''", "'test_user_002'" ]
+}

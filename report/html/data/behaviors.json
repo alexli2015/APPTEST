@@ -1,0 +1,57 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_001[test_user_001---]",
+    "uid" : "5574fb83aa4ed84d",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574665049050,
+      "stop" : 1574665068706,
+      "duration" : 19656
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "''", "''", "''", "'test_user_001'" ]
+  }, {
+    "name" : "test_001[test_user_002-翠花--翠花]",
+    "uid" : "97db93473a5cacb1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574665070262,
+      "stop" : 1574665096724,
+      "duration" : 26462
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'翠花'", "'翠花'", "''", "'test_user_002'" ]
+  }, {
+    "name" : "test_001[test_user_003--1 388-888-8888-1 388-888-8888]",
+    "uid" : "5aa0a8c49d8a98be",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574665098092,
+      "stop" : 1574665121613,
+      "duration" : 23521
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'1 388-888-8888'", "''", "'1 388-888-8888'", "'test_user_003'" ]
+  }, {
+    "name" : "test_001[test_user_004-大王-1 366-666-6666-大王]",
+    "uid" : "f6ee1f0730151ebc",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1574665122969,
+      "stop" : 1574665147206,
+      "duration" : 24237
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'大王'", "'大王'", "'1 366-666-6666'", "'test_user_004'" ]
+  } ]
+}

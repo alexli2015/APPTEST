@@ -1,0 +1,41 @@
+[ {
+  "uid" : "5aa0a8c49d8a98be",
+  "name" : "test_001[test_user_003--1 388-888-8888-1 388-888-8888]",
+  "time" : {
+    "start" : 1574665098092,
+    "stop" : 1574665121613,
+    "duration" : 23521
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97db93473a5cacb1",
+  "name" : "test_001[test_user_002-翠花--翠花]",
+  "time" : {
+    "start" : 1574665070262,
+    "stop" : 1574665096724,
+    "duration" : 26462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6ee1f0730151ebc",
+  "name" : "test_001[test_user_004-大王-1 366-666-6666-大王]",
+  "time" : {
+    "start" : 1574665122969,
+    "stop" : 1574665147206,
+    "duration" : 24237
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5574fb83aa4ed84d",
+  "name" : "test_001[test_user_001---]",
+  "time" : {
+    "start" : 1574665049050,
+    "stop" : 1574665068706,
+    "duration" : 19656
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
